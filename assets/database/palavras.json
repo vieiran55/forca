@@ -1,0 +1,1333 @@
+[
+  {
+    "id": 1,
+    "palavra": "Brasil",
+    "dica": "País"
+  },
+  {
+    "id": 2,
+    "palavra": "Cachorro",
+    "dica": "Animal de estimação"
+  },
+  {
+    "id": 3,
+    "palavra": "Maçã",
+    "dica": "Fruta"
+  },
+  {
+    "id": 4,
+    "palavra": "Computador",
+    "dica": "Dispositivo eletrônico"
+  },
+  {
+    "id": 5,
+    "palavra": "Bicicleta",
+    "dica": "Meio de transporte"
+  },
+  {
+    "id": 6,
+    "palavra": "Piano",
+    "dica": "Instrumento musical"
+  },
+  {
+    "id": 7,
+    "palavra": "Futebol",
+    "dica": "Esporte popular"
+  },
+  {
+    "id": 8,
+    "palavra": "Verão",
+    "dica": "Estação do ano"
+  },
+  {
+    "id": 9,
+    "palavra": "Montanha",
+    "dica": "Formação geográfica"
+  },
+  {
+    "id": 10,
+    "palavra": "Chocolate",
+    "dica": "Doce"
+  },
+  {
+    "id": 11,
+    "palavra": "Telefone",
+    "dica": "Meio de comunicação"
+  },
+  {
+    "id": 12,
+    "palavra": "Floresta",
+    "dica": "Bioma"
+  },
+  {
+    "id": 13,
+    "palavra": "Oceano",
+    "dica": "Grande massa de água"
+  },
+  {
+    "id": 14,
+    "palavra": "Foguete",
+    "dica": "Veículo espacial"
+  },
+  {
+    "id": 15,
+    "palavra": "Astronomia",
+    "dica": "Ciência"
+  },
+  {
+    "id": 16,
+    "palavra": "Energia",
+    "dica": "Física"
+  },
+  {
+    "id": 17,
+    "palavra": "Sapato",
+    "dica": "Calçado"
+  },
+  {
+    "id": 18,
+    "palavra": "Comida",
+    "dica": "Nutrição"
+  },
+  {
+    "id": 19,
+    "palavra": "Amizade",
+    "dica": "Relacionamento"
+  },
+  {
+    "id": 20,
+    "palavra": "Música",
+    "dica": "Arte sonora"
+  },
+  {
+    "id": 21,
+    "palavra": "Cinema",
+    "dica": "Entretenimento"
+  },
+  {
+    "id": 22,
+    "palavra": "Família",
+    "dica": "Parentes"
+  },
+  {
+    "id": 23,
+    "palavra": "Pintura",
+    "dica": "Arte visual"
+  },
+  {
+    "id": 24,
+    "palavra": "História",
+    "dica": "Disciplina escolar"
+  },
+  {
+    "id": 25,
+    "palavra": "Natureza",
+    "dica": "Meio ambiente"
+  },
+  {
+    "id": 26,
+    "palavra": "Viajar",
+    "dica": "Aventura"
+  },
+  {
+    "id": 27,
+    "palavra": "Arquitetura",
+    "dica": "Construção"
+  },
+  {
+    "id": 28,
+    "palavra": "Sorriso",
+    "dica": "Expressão facial"
+  },
+  {
+    "id": 29,
+    "palavra": "Livro",
+    "dica": "Fonte de conhecimento"
+  },
+
+  {
+    "id": 30,
+    "palavra": "Inteligência",
+    "dica": "Capacidade mental"
+  },
+  {
+    "id": 31,
+    "palavra": "Programação",
+    "dica": "Desenvolvimento de software"
+  },
+  {
+    "id": 32,
+    "palavra": "Telecomunicações",
+    "dica": "Transmissão de informações"
+  },
+  {
+    "id": 33,
+    "palavra": "Algoritmo",
+    "dica": "Sequência de instruções"
+  },
+  {
+    "id": 34,
+    "palavra": "Cibersegurança",
+    "dica": "Proteção de dados online"
+  },
+  {
+    "id": 35,
+    "palavra": "Inovação",
+    "dica": "Mudança criativa"
+  },
+  {
+    "id": 36,
+    "palavra": "Desenvolvimento",
+    "dica": "Criação de software"
+  },
+  {
+    "id": 37,
+    "palavra": "Nanotecnologia",
+    "dica": "Manipulação de átomos"
+  },
+  {
+    "id": 38,
+    "palavra": "Realidade",
+    "dica": "Ambiente virtual"
+  },
+  {
+    "id": 39,
+    "palavra": "Blockchain",
+    "dica": "Tecnologia de registros"
+  },
+  {
+    "id": 40,
+    "palavra": "Inteligência",
+    "dica": "Capacidade mental"
+  },
+  {
+    "id": 41,
+    "palavra": "Machine",
+    "dica": "Aprendizado de máquina"
+  },
+  {
+    "id": 42,
+    "palavra": "Criptomoeda",
+    "dica": "Moeda digital"
+  },
+  {
+    "id": 43,
+    "palavra": "Automação",
+    "dica": "Processo automatizado"
+  },
+  {
+    "id": 44,
+    "palavra": "Computacional",
+    "dica": "Relacionado a computadores"
+  },
+  {
+    "id": 45,
+    "palavra": "Cinematográfico",
+    "dica": "Relacionado ao cinema"
+  },
+  {
+    "id": 46,
+    "palavra": "Aventura",
+    "dica": "Gênero de filme"
+  },
+  {
+    "id": 47,
+    "palavra": "Suspense",
+    "dica": "Gênero de filme"
+  },
+  {
+    "id": 48,
+    "palavra": "Comédia",
+    "dica": "Gênero de filme"
+  },
+  {
+    "id": 49,
+    "palavra": "Drama",
+    "dica": "Gênero de filme"
+  },
+  {
+    "id": 50,
+    "palavra": "Fantasia",
+    "dica": "Gênero de filme"
+  },
+  {
+    "id": 51,
+    "palavra": "Horror",
+    "dica": "Gênero de filme"
+  },
+  {
+    "id": 52,
+    "palavra": "Documentário",
+    "dica": "Tipo de filme informativo"
+  },
+  {
+    "id": 53,
+    "palavra": "Cenário",
+    "dica": "Ambiente de filmagem"
+  },
+  {
+    "id": 54,
+    "palavra": "Roteiro",
+    "dica": "Texto do filme"
+  },
+  {
+    "id": 55,
+    "palavra": "Câmera",
+    "dica": "Dispositivo de filmagem"
+  },
+  {
+    "id": 56,
+    "palavra": "Direção",
+    "dica": "Trabalho do diretor"
+  },
+  {
+    "id": 57,
+    "palavra": "Casting",
+    "dica": "Seleção de elenco"
+  },
+  {
+    "id": 58,
+    "palavra": "Premiação",
+    "dica": "Evento de reconhecimento"
+  },
+  {
+    "id": 59,
+    "palavra": "Câmera",
+    "dica": "Dispositivo de filmagem"
+  },
+  {
+    "id": 60,
+    "palavra": "Legião",
+    "dica": "Banda brasileira de rock"
+  },
+  {
+    "id": 61,
+    "palavra": "Skank",
+    "dica": "Banda de pop rock brasileira"
+  },
+  {
+    "id": 62,
+    "palavra": "Titãs",
+    "dica": "Banda de rock brasileira"
+  },
+  {
+    "id": 63,
+    "palavra": "Paralamas",
+    "dica": "Banda brasileira de rock"
+  },
+  {
+    "id": 64,
+    "palavra": "Angra",
+    "dica": "Banda brasileira de heavy metal"
+  },
+  {
+    "id": 65,
+    "palavra": "Raimundos",
+    "dica": "Banda brasileira de punk rock"
+  },
+  {
+    "id": 66,
+    "palavra": "Sepultura",
+    "dica": "Banda brasileira de thrash metal"
+  },
+  {
+    "id": 67,
+    "palavra": "Nenhum",
+    "dica": "Banda brasileira de rock alternativo"
+  },
+  {
+    "id": 68,
+    "palavra": "Engenheiros",
+    "dica": "Banda brasileira de rock"
+  },
+  {
+    "id": 69,
+    "palavra": "Mamonas",
+    "dica": "Banda brasileira de humor"
+  },
+  {
+    "id": 70,
+    "palavra": "Biquini",
+    "dica": "Banda de rock brasileira"
+  },
+  {
+    "id": 71,
+    "palavra": "Ira!",
+    "dica": "Banda brasileira de rock"
+  },
+  {
+    "id": 72,
+    "palavra": "Rappa",
+    "dica": "Banda brasileira de reggae"
+  },
+  {
+    "id": 73,
+    "palavra": "Los",
+    "dica": "Banda brasileira de rock"
+  },
+  {
+    "id": 74,
+    "palavra": "Os",
+    "dica": "Banda brasileira de rock"
+  },
+  {
+    "id": 75,
+    "palavra": "Abacaxi",
+    "dica": "Fruta tropical"
+  },
+  {
+    "id": 76,
+    "palavra": "Carambola",
+    "dica": "Fruta em forma de estrela"
+  },
+  {
+    "id": 77,
+    "palavra": "Goiaba",
+    "dica": "Fruta de cor verde"
+  },
+  {
+    "id": 78,
+    "palavra": "Mangostão",
+    "dica": "Fruta exótica"
+  },
+  {
+    "id": 79,
+    "palavra": "Maracujá",
+    "dica": "Fruta tropical"
+  },
+  {
+    "id": 80,
+    "palavra": "Pitanga",
+    "dica": "Fruta vermelha"
+  },
+  {
+    "id": 81,
+    "palavra": "Figo",
+    "dica": "Fruta doce e suculenta"
+  },
+  {
+    "id": 82,
+    "palavra": "Ameixa",
+    "dica": "Fruta pequena e redonda"
+  },
+  {
+    "id": 83,
+    "palavra": "Kiwi",
+    "dica": "Fruta peluda e verde"
+  },
+  {
+    "id": 84,
+    "palavra": "Cacau",
+    "dica": "Fruta usada para fazer chocolate"
+  },
+  {
+    "id": 85,
+    "palavra": "Tamarindo",
+    "dica": "Fruta de sabor ácido"
+  },
+  {
+    "id": 86,
+    "palavra": "Pêssego",
+    "dica": "Fruta de polpa suculenta"
+  },
+  {
+    "id": 87,
+    "palavra": "Nectarina",
+    "dica": "Variedade de pêssego"
+  },
+  {
+    "id": 88,
+    "palavra": "Jabuticaba",
+    "dica": "Fruta que cresce no tronco"
+  },
+  {
+    "id": 89,
+    "palavra": "Cereja",
+    "dica": "Fruta vermelha e pequena"
+  },
+  {
+    "id": 90,
+    "palavra": "Bangcoc",
+    "dica": "Capital da Tailândia"
+  },
+  {
+    "id": 91,
+    "palavra": "Singapura",
+    "dica": "Cidade-Estado no Sudeste Asiático"
+  },
+  {
+    "id": 92,
+    "palavra": "KualaLumpur",
+    "dica": "Capital da Malásia"
+  },
+  {
+    "id": 93,
+    "palavra": "Joanesburgo",
+    "dica": "Maior cidade da África do Sul"
+  },
+  {
+    "id": 94,
+    "palavra": "CidadeDoMéxico",
+    "dica": "Capital do México"
+  },
+  {
+    "id": 95,
+    "palavra": "Helsinki",
+    "dica": "Capital da Finlândia"
+  },
+  {
+    "id": 96,
+    "palavra": "Budapeste",
+    "dica": "Capital da Hungria"
+  },
+  {
+    "id": 97,
+    "palavra": "Dubrovnik",
+    "dica": "Cidade costeira na Croácia"
+  },
+  {
+    "id": 98,
+    "palavra": "Istambul",
+    "dica": "Cidade que se estende pela Europa e Ásia"
+  },
+  {
+    "id": 99,
+    "palavra": "Marselha",
+    "dica": "Cidade no sul da França"
+  },
+  {
+    "id": 100,
+    "palavra": "Sydney",
+    "dica": "Cidade na Austrália"
+  },
+  {
+    "id": 101,
+    "palavra": "Viena",
+    "dica": "Capital da Áustria"
+  },
+  {
+    "id": 102,
+    "palavra": "Cairo",
+    "dica": "Capital do Egito"
+  },
+  {
+    "id": 103,
+    "palavra": "Toronto",
+    "dica": "Cidade no Canadá"
+  },
+  {
+    "id": 104,
+    "palavra": "Bangalore",
+    "dica": "Cidade na Índia"
+  },
+  {
+    "id": 105,
+    "palavra": "Pequim",
+    "dica": "Capital da China"
+  },
+  {
+    "id": 106,
+    "palavra": "Seul",
+    "dica": "Capital da Coreia do Sul"
+  },
+  {
+    "id": 107,
+    "palavra": "Munique",
+    "dica": "Cidade na Alemanha"
+  },
+  {
+    "id": 108,
+    "palavra": "Atenas",
+    "dica": "Capital da Grécia"
+  },
+  {
+    "id": 109,
+    "palavra": "Londres",
+    "dica": "Capital do Reino Unido"
+  },
+  {
+    "id": 110,
+    "palavra": "Roma",
+    "dica": "Capital da Itália"
+  },
+  {
+    "id": 111,
+    "palavra": "Moscou",
+    "dica": "Capital da Rússia"
+  },
+  {
+    "id": 112,
+    "palavra": "NovaDélhi",
+    "dica": "Capital da Índia"
+  },
+  {
+    "id": 113,
+    "palavra": "Tóquio",
+    "dica": "Capital do Japão"
+  },
+  {
+    "id": 114,
+    "palavra": "Praga",
+    "dica": "Capital da República Tcheca"
+  },
+  {
+    "id": 115,
+    "palavra": "Varsóvia",
+    "dica": "Capital da Polônia"
+  },
+  {
+    "id": 116,
+    "palavra": "Casablanca",
+    "dica": "Cidade em Marrocos"
+  },
+  {
+    "id": 117,
+    "palavra": "Lisboa",
+    "dica": "Capital de Portugal"
+  },
+  {
+    "id": 118,
+    "palavra": "Copenhague",
+    "dica": "Capital da Dinamarca"
+  },
+  {
+    "id": 120,
+    "palavra": "Elefante",
+    "dica": "Animal terrestre gigante"
+  },
+  {
+    "id": 121,
+    "palavra": "Rinoceronte",
+    "dica": "Animal com chifre no nariz"
+  },
+  {
+    "id": 122,
+    "palavra": "Orangotango",
+    "dica": "Primate peludo"
+  },
+  {
+    "id": 123,
+    "palavra": "Hipopótamo",
+    "dica": "Animal herbívoro aquático"
+  },
+  {
+    "id": 124,
+    "palavra": "Girafa",
+    "dica": "Animal de pescoço longo"
+  },
+  {
+    "id": 125,
+    "palavra": "Pinguim",
+    "dica": "Ave que não voa"
+  },
+  {
+    "id": 126,
+    "palavra": "Tubarão",
+    "dica": "Predador dos oceanos"
+  },
+  {
+    "id": 127,
+    "palavra": "Crocodilo",
+    "dica": "Réptil aquático"
+  },
+  {
+    "id": 128,
+    "palavra": "Leopardo",
+    "dica": "Felino com manchas"
+  },
+  {
+    "id": 129,
+    "palavra": "Panda",
+    "dica": "Urso preto e branco"
+  },
+  {
+    "id": 130,
+    "palavra": "Hipopótamo",
+    "dica": "Animal herbívoro aquático"
+  },
+  {
+    "id": 131,
+    "palavra": "Golfinho",
+    "dica": "Cetáceo inteligente"
+  },
+  {
+    "id": 132,
+    "palavra": "Canguru",
+    "dica": "Marsupial saltador"
+  },
+  {
+    "id": 133,
+    "palavra": "Morcego",
+    "dica": "Único mamífero voador"
+  },
+  {
+    "id": 134,
+    "palavra": "Águia",
+    "dica": "Ave de rapina"
+  },
+  {
+    "id": 135,
+    "palavra": "Conjugação",
+    "dica": "Forma verbal flexionada"
+  },
+  {
+    "id": 136,
+    "palavra": "Sintaxe",
+    "dica": "Estudo da estrutura das frases"
+  },
+  {
+    "id": 137,
+    "palavra": "Ortografia",
+    "dica": "Conjunto de regras de escrita"
+  },
+  {
+    "id": 138,
+    "palavra": "Gramática",
+    "dica": "Estudo da língua"
+  },
+  {
+    "id": 139,
+    "palavra": "Semântica",
+    "dica": "Estudo do significado das palavras"
+  },
+  {
+    "id": 140,
+    "palavra": "Vocabulário",
+    "dica": "Conjunto de palavras de uma língua"
+  },
+  {
+    "id": 141,
+    "palavra": "Fonologia",
+    "dica": "Estudo dos sons da fala"
+  },
+  {
+    "id": 142,
+    "palavra": "Concordância",
+    "dica": "Acordo entre elementos da frase"
+  },
+  {
+    "id": 143,
+    "palavra": "Morfologia",
+    "dica": "Estudo da estrutura das palavras"
+  },
+  {
+    "id": 144,
+    "palavra": "Linguagem",
+    "dica": "Forma de comunicação"
+  },
+  {
+    "id": 145,
+    "palavra": "Sintagma",
+    "dica": "Grupo de palavras com sentido"
+  },
+  {
+    "id": 146,
+    "palavra": "Redundância",
+    "dica": "Repetição desnecessária"
+  },
+  {
+    "id": 147,
+    "palavra": "Diálogo",
+    "dica": "Conversa entre duas pessoas"
+  },
+  {
+    "id": 148,
+    "palavra": "Língua",
+    "dica": "Sistema de comunicação verbal"
+  },
+  {
+    "id": 149,
+    "palavra": "Articulação",
+    "dica": "Forma de pronunciar os sons"
+  },
+  {
+    "id": 150,
+    "palavra": "Geometria",
+    "dica": "Estudo de formas e figuras"
+  },
+  {
+    "id": 151,
+    "palavra": "Trigonometria",
+    "dica": "Estudo das relações entre os ângulos e os lados de um triângulo"
+  },
+  {
+    "id": 152,
+    "palavra": "Álgebra",
+    "dica": "Estudo de equações e operações"
+  },
+  {
+    "id": 153,
+    "palavra": "Cálculo",
+    "dica": "Estudo das taxas de variação e acumulação"
+  },
+  {
+    "id": 154,
+    "palavra": "Probabilidade",
+    "dica": "Estudo de eventos incertos"
+  },
+  {
+    "id": 155,
+    "palavra": "Equação",
+    "dica": "Expressão matemática com igualdade"
+  },
+  {
+    "id": 156,
+    "palavra": "Integral",
+    "dica": "Operação inversa da derivada"
+  },
+  {
+    "id": 157,
+    "palavra": "Exponencial",
+    "dica": "Função com base elevada a uma potência"
+  },
+  {
+    "id": 158,
+    "palavra": "Logaritmo",
+    "dica": "Função inversa da exponenciação"
+  },
+  {
+    "id": 159,
+    "palavra": "Teorema",
+    "dica": "Proposição matemática demonstrável"
+  },
+  {
+    "id": 160,
+    "palavra": "Matriz",
+    "dica": "Arranjo retangular de números"
+  },
+  {
+    "id": 161,
+    "palavra": "Polinômio",
+    "dica": "Expressão algébrica com múltiplos termos"
+  },
+  {
+    "id": 162,
+    "palavra": "Derivada",
+    "dica": "Taxa de variação instantânea"
+  },
+  {
+    "id": 163,
+    "palavra": "Permutação",
+    "dica": "Arranjo de objetos em uma ordem específica"
+  },
+  {
+    "id": 164,
+    "palavra": "Aritmética",
+    "dica": "Estudo de números e operações básicas"
+  },
+  {
+    "id": 165,
+    "palavra": "Elephant",
+    "dica": "Elefante em inglês"
+  },
+  {
+    "id": 166,
+    "palavra": "Restaurant",
+    "dica": "Restaurante em inglês"
+  },
+  {
+    "id": 167,
+    "palavra": "Television",
+    "dica": "Televisão em inglês"
+  },
+  {
+    "id": 168,
+    "palavra": "Adventure",
+    "dica": "Aventura em inglês"
+  },
+  {
+    "id": 169,
+    "palavra": "Refrigerator",
+    "dica": "Refrigerador em inglês"
+  },
+  {
+    "id": 170,
+    "palavra": "Education",
+    "dica": "Educação em inglês"
+  },
+  {
+    "id": 171,
+    "palavra": "Celebration",
+    "dica": "Celebração em inglês"
+  },
+  {
+    "id": 172,
+    "palavra": "Beautiful",
+    "dica": "Bonito(a) em inglês"
+  },
+  {
+    "id": 173,
+    "palavra": "Dangerous",
+    "dica": "Perigoso(a) em inglês"
+  },
+  {
+    "id": 174,
+    "palavra": "Happiness",
+    "dica": "Felicidade em inglês"
+  },
+  {
+    "id": 175,
+    "palavra": "Direction",
+    "dica": "Direção em inglês"
+  },
+  {
+    "id": 176,
+    "palavra": "Satisfaction",
+    "dica": "Satisfação em inglês"
+  },
+  {
+    "id": 177,
+    "palavra": "Technology",
+    "dica": "Tecnologia em inglês"
+  },
+  {
+    "id": 178,
+    "palavra": "Environment",
+    "dica": "Meio ambiente em inglês"
+  },
+  {
+    "id": 179,
+    "palavra": "Communication",
+    "dica": "Comunicação em inglês"
+  },
+  {
+    "id": 180,
+    "palavra": "Absurd",
+    "dica": "Absurdo em inglês"
+  },
+  {
+    "id": 181,
+    "palavra": "Incredible",
+    "dica": "Incrível em inglês"
+  },
+  {
+    "id": 182,
+    "palavra": "Exaggerate",
+    "dica": "Exagerar em inglês"
+  },
+  {
+    "id": 183,
+    "palavra": "Responsible",
+    "dica": "Responsável em inglês"
+  },
+  {
+    "id": 184,
+    "palavra": "Adventure",
+    "dica": "Aventura em inglês"
+  },
+  {
+    "id": 185,
+    "palavra": "Consequence",
+    "dica": "Consequência em inglês"
+  },
+  {
+    "id": 186,
+    "palavra": "Unbelievable",
+    "dica": "Inacreditável em inglês"
+  },
+  {
+    "id": 187,
+    "palavra": "Participation",
+    "dica": "Participação em inglês"
+  },
+  {
+    "id": 188,
+    "palavra": "Enthusiasm",
+    "dica": "Entusiasmo em inglês"
+  },
+  {
+    "id": 189,
+    "palavra": "Necessary",
+    "dica": "Necessário em inglês"
+  },
+  {
+    "id": 190,
+    "palavra": "Championship",
+    "dica": "Campeonato em inglês"
+  },
+  {
+    "id": 191,
+    "palavra": "Expression",
+    "dica": "Expressão em inglês"
+  },
+  {
+    "id": 192,
+    "palavra": "Invitation",
+    "dica": "Convite em inglês"
+  },
+  {
+    "id": 193,
+    "palavra": "Beneficial",
+    "dica": "Beneficial em inglês"
+  },
+  {
+    "id": 194,
+    "palavra": "Recognition",
+    "dica": "Reconhecimento em inglês"
+  },
+  {
+    "id": 195,
+    "palavra": "Jurisprudência",
+    "dica": "Conjunto de decisões judiciais"
+  },
+  {
+    "id": 196,
+    "palavra": "Interpelação",
+    "dica": "Ato de questionar judicialmente"
+  },
+  {
+    "id": 197,
+    "palavra": "Imunidade",
+    "dica": "Isenção de obrigações fiscais"
+  },
+  {
+    "id": 198,
+    "palavra": "Litispendência",
+    "dica": "Existência de dois processos idênticos"
+  },
+  {
+    "id": 199,
+    "palavra": "Precedente",
+    "dica": "Decisão judicial usada como exemplo"
+  },
+  {
+    "id": 200,
+    "palavra": "Reparação",
+    "dica": "Compensação por danos"
+  },
+  {
+    "id": 201,
+    "palavra": "Transação",
+    "dica": "Acordo entre partes"
+  },
+  {
+    "id": 202,
+    "palavra": "Desistência",
+    "dica": "Renúncia a um processo judicial"
+  },
+  {
+    "id": 203,
+    "palavra": "Inadimplência",
+    "dica": "Não cumprimento de obrigações"
+  },
+  {
+    "id": 204,
+    "palavra": "Usufruto",
+    "dica": "Direito de uso e fruição de algo"
+  },
+  {
+    "id": 205,
+    "palavra": "Sub-rogação",
+    "dica": "Transferência de direitos"
+  },
+  {
+    "id": 206,
+    "palavra": "Penhor",
+    "dica": "Garantia de pagamento de dívida"
+  },
+  {
+    "id": 207,
+    "palavra": "Homologação",
+    "dica": "Aprovação judicial de atos"
+  },
+  {
+    "id": 208,
+    "palavra": "Alienação",
+    "dica": "Transferência de propriedade"
+  },
+  {
+    "id": 209,
+    "palavra": "Legitimidade",
+    "dica": "Qualidade de ser legítimo"
+  },
+  {
+    "id": 210,
+    "palavra": "Compreender",
+    "dica": "Entender algo"
+  },
+  {
+    "id": 211,
+    "palavra": "Investigar",
+    "dica": "Procurar informações"
+  },
+  {
+    "id": 212,
+    "palavra": "Demonstrar",
+    "dica": "Mostrar algo"
+  },
+  {
+    "id": 213,
+    "palavra": "Apreciar",
+    "dica": "Valorizar algo"
+  },
+  {
+    "id": 214,
+    "palavra": "Desenvolver",
+    "dica": "Fazer progresso em algo"
+  },
+  {
+    "id": 215,
+    "palavra": "Estabelecer",
+    "dica": "Definir ou criar algo"
+  },
+  {
+    "id": 216,
+    "palavra": "Aperfeiçoar",
+    "dica": "Melhorar algo"
+  },
+  {
+    "id": 217,
+    "palavra": "Reconhecer",
+    "dica": "Identificar ou admitir algo"
+  },
+  {
+    "id": 218,
+    "palavra": "Influenciar",
+    "dica": "Exercer impacto sobre algo"
+  },
+  {
+    "id": 219,
+    "palavra": "Revolucionar",
+    "dica": "Promover uma grande mudança em algo"
+  },
+  {
+    "id": 220,
+    "palavra": "Interpretar",
+    "dica": "Explicar o significado de algo"
+  },
+  {
+    "id": 221,
+    "palavra": "Preservar",
+    "dica": "Manter algo em seu estado original"
+  },
+  {
+    "id": 222,
+    "palavra": "Ressaltar",
+    "dica": "Destacar ou enfatizar algo"
+  },
+  {
+    "id": 223,
+    "palavra": "Prevenir",
+    "dica": "Tomar medidas para evitar algo"
+  },
+  {
+    "id": 224,
+    "palavra": "Justificar",
+    "dica": "Dar razões válidas para algo"
+  },
+  {
+    "id": 225,
+    "palavra": "Questionar",
+    "dica": "Fazer perguntas ou colocar em dúvida algo"
+  },
+  {
+    "id": 226,
+    "palavra": "Comemorar",
+    "dica": "Celebrar ou festejar algo"
+  },
+  {
+    "id": 227,
+    "palavra": "Reivindicar",
+    "dica": "Exigir ou solicitar algo com base em direitos"
+  },
+  {
+    "id": 228,
+    "palavra": "Pressionar",
+    "dica": "Exercer pressão ou forçar algo"
+  },
+  {
+    "id": 229,
+    "palavra": "Adaptar",
+    "dica": "Ajustar ou modificar algo para se adequar a uma situação"
+  },
+  {
+    "id": 230,
+    "palavra": "Analisar",
+    "dica": "Examinar detalhadamente algo"
+  },
+  {
+    "id": 231,
+    "palavra": "Demonstrar",
+    "dica": "Mostrar algo"
+  },
+  {
+    "id": 232,
+    "palavra": "Refletir",
+    "dica": "Pensar profundamente sobre algo"
+  },
+  {
+    "id": 233,
+    "palavra": "Supervisionar",
+    "dica": "Monitorar ou gerenciar algo"
+  },
+  {
+    "id": 234,
+    "palavra": "Compreender",
+    "dica": "Entender algo"
+  },
+  {
+    "id": 235,
+    "palavra": "Negociar",
+    "dica": "Fazer acordos ou transações"
+  },
+  {
+    "id": 236,
+    "palavra": "Coordenar",
+    "dica": "Organizar e sincronizar atividades"
+  },
+  {
+    "id": 237,
+    "palavra": "Restringir",
+    "dica": "Limitar ou restringir algo"
+  },
+  {
+    "id": 238,
+    "palavra": "Motivar",
+    "dica": "Estimular ou incentivar algo"
+  },
+  {
+    "id": 239,
+    "palavra": "Aplicar",
+    "dica": "Colocar em prática ou usar algo"
+  },
+  {
+    "id": 240,
+    "palavra": "Aprimorar",
+    "dica": "Melhorar ou aperfeiçoar algo"
+  },
+  {
+    "id": 241,
+    "palavra": "Transmitir",
+    "dica": "Enviar ou comunicar informações"
+  },
+  {
+    "id": 242,
+    "palavra": "Perseverar",
+    "dica": "Continuar esforçando-se apesar das dificuldades"
+  },
+  {
+    "id": 243,
+    "palavra": "Colaborar",
+    "dica": "Trabalhar em conjunto com outros"
+  },
+  {
+    "id": 244,
+    "palavra": "Avaliar",
+    "dica": "Fazer uma análise crítica ou avaliação"
+  },
+  {
+    "id": 245,
+    "palavra": "Desenvolver",
+    "dica": "Fazer algo evoluir ou crescer"
+  },
+  {
+    "id": 246,
+    "palavra": "Fortalecer",
+    "dica": "Tornar algo mais forte ou resistente"
+  },
+  {
+    "id": 247,
+    "palavra": "Estabelecer",
+    "dica": "Criar ou definir algo de forma permanente"
+  },
+  {
+    "id": 248,
+    "palavra": "Explorar",
+    "dica": "Investigar ou descobrir algo"
+  },
+  {
+    "id": 249,
+    "palavra": "Sintetizar",
+    "dica": "Combinar elementos para criar uma síntese"
+  },
+  {
+    "id": 250,
+    "palavra": "Exemplificar",
+    "dica": "Dar exemplos ou ilustrar algo"
+  },
+  {
+    "id": 251,
+    "palavra": "Diversificar",
+    "dica": "Tornar mais variado ou diverso"
+  },
+  {
+    "id": 252,
+    "palavra": "Justificar",
+    "dica": "Fornecer razões ou argumentos para algo"
+  },
+  {
+    "id": 253,
+    "palavra": "Prosperar",
+    "dica": "Ter sucesso ou prosperar em algo"
+  },
+  {
+    "id": 254,
+    "palavra": "Ampliar",
+    "dica,": "Aumentar ou expandir algo"
+  },
+  {
+    "id": 255,
+    "palavra": "Rihanna",
+    "dica": "Cantora"
+  },
+  {
+    "id": 256,
+    "palavra": "Adele",
+    "dica": "Cantora"
+  },
+  {
+    "id": 257,
+    "palavra": "Eminem",
+    "dica": "Rapper"
+  },
+  {
+    "id": 258,
+    "palavra": "Madonna",
+    "dica": "Cantora"
+  },
+  {
+    "id": 259,
+    "palavra": "Shakira",
+    "dica": "Cantora"
+  },
+  {
+    "id": 260,
+    "palavra": "Prince",
+    "dica": "Cantor"
+  },
+  {
+    "id": 261,
+    "palavra": "Alicia",
+    "dica": "Cantora"
+  },
+  {
+    "id": 262,
+    "palavra": "Ariana",
+    "dica": "Cantora"
+  },
+  {
+    "id": 263,
+    "palavra": "Cher",
+    "dica": "Cantora"
+  },
+  {
+    "id": 264,
+    "palavra": "Akon",
+    "dica": "Cantor"
+  },
+  {
+    "id": 265,
+    "palavra": "Enrique",
+    "dica": "Cantor"
+  },
+  {
+    "id": 266,
+    "palavra": "Whitney",
+    "dica": "Cantora"
+  },
+  {
+    "id": 267,
+    "palavra": "Kesha",
+    "dica": "Cantora"
+  }
+]

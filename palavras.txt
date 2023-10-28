@@ -1,0 +1,4 @@
+id:1 => palavra:Brasil; dica:País
+id:2 => palavra:Cachorro; dica:Animal de estimação
+id:3 => palavra:Maçã; dica:Fruta
+id:4 => palavra:Computador; dica:Dispositivo eletrônico
